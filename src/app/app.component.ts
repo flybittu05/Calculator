@@ -8,3 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'ang-Calculator';
 }
+
+// https://medium.com/swlh/how-to-deploy-an-angular-app-to-github-pages-without-using-any-libraries-step-by-step-guide-cfe96fb0c879
